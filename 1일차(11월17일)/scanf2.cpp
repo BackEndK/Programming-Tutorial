@@ -3,21 +3,21 @@
 int main(void)
 {
 	/*int one, two, three;
-	printf("¼¼°ÔÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: "); 
-	scanf("%d %d %d",&one,&two,&three); &°íÁ¤  
-	printf("Ã¹¹ø¤Š °ª %d\n",one);
-	printf("µÎ¹ø¤Š °ª %d\n",two);
-	printf("¼¼¹ø¤Š °ª %d\n",three);
+	printf("ì„¸ê²Œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: "); 
+	scanf("%d %d %d",&one,&two,&three); //&ìœ¼ë¡œ ê³ ì •
+	printf("ì²«ë²ˆì¨°ê°’ %d\n",one);
+	printf("ë‘ë²ˆì¨°ê°’ %d\n",two);
+	printf("ì„¸ë²ˆì¨°ê°’ %d\n",three);
 
 	
-	char c= 'A'; //¹®ÀÚ 
+	char c= 'A'; //ë¬¸ì
 	printf("%c\n",c);
 	
 	
 	int num = 5;
 	char ch = 'a';
 	
-	printf("%c´Â%dÀÔ´Ï´Ù\n",ch,num ); 
+	printf("%cëŠ”%dì…ë‹ˆë‹¤\n",ch,num ); 
 	*/
 	char ch = 200;
 
@@ -26,11 +26,11 @@ int main(void)
     double num02 = 5;  
 
  
-    printf("ch¿¡ ÀúÀåµÈ °ªÀº %dÀÔ´Ï´Ù.\n", ch);
+    printf("chì— ì €ì¥ëœ ê°’ì€ %dì…ë‹ˆë‹¤.\n", ch);
 
-    printf("num01¿¡ ÀúÀåµÈ °ªÀº %dÀÔ´Ï´Ù.\n", num01);
+    printf("num01ì— ì €ì¥ëœ ê°’ì€ %dì…ë‹ˆë‹¤.\n", num01);
 
-    printf("num02¿¡ ÀúÀåµÈ °ªÀº %fÀÔ´Ï´Ù.\n", num02);
+    printf("num02ì— ì €ì¥ëœ ê°’ì€ %fì…ë‹ˆë‹¤.\n", num02);
 	
    	return 0;
 	
